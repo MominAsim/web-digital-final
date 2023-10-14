@@ -29,26 +29,24 @@ header{
 background-color: rgb(29, 0, 63);
 display: flex;
 justify-content: center;
-align-items: center;
-height: 100vh;
-text-align: center;
-flex-direction: column;
-gap: 4vw;
+align-items: center; 
+height: 50vw;
+margin: 0;
 }
 .register_card{
   display: flex;
   justify-content: center;
   align-items: center;
-  text-align: center;
   flex-direction: column;
-  gap: 2vh;
+  gap: 1vw;
   background-color: rgb(6, 0, 59);
-  width: 25vw;
-  height: 70vh;
+  width: 30vw;
+  height: 30vw;
 }
 .loginorregisterh1{
   color: aliceblue;
   font-size: 2vw;
+  margin-bottom: 1vw;
 }
 #username_box{
   width: 20vw;
