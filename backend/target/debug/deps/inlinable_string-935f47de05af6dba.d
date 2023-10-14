@@ -1,0 +1,9 @@
+C:\Users\aawan\Desktop\programming\web development\react js projects\web digital\server-side\web-diital-backend\target\debug\deps\inlinable_string-935f47de05af6dba.rmeta: C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inlinable_string-0.1.15\src\lib.rs C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inlinable_string-0.1.15\src\inline_string.rs C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inlinable_string-0.1.15\src\string_ext.rs
+
+C:\Users\aawan\Desktop\programming\web development\react js projects\web digital\server-side\web-diital-backend\target\debug\deps\libinlinable_string-935f47de05af6dba.rlib: C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inlinable_string-0.1.15\src\lib.rs C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inlinable_string-0.1.15\src\inline_string.rs C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inlinable_string-0.1.15\src\string_ext.rs
+
+C:\Users\aawan\Desktop\programming\web development\react js projects\web digital\server-side\web-diital-backend\target\debug\deps\inlinable_string-935f47de05af6dba.d: C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inlinable_string-0.1.15\src\lib.rs C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inlinable_string-0.1.15\src\inline_string.rs C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inlinable_string-0.1.15\src\string_ext.rs
+
+C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inlinable_string-0.1.15\src\lib.rs:
+C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inlinable_string-0.1.15\src\inline_string.rs:
+C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\inlinable_string-0.1.15\src\string_ext.rs:

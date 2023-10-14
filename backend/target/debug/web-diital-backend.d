@@ -1,0 +1,1 @@
+C:\Users\aawan\Desktop\programming\web\ development\react\ js\ projects\web\ digital\backend\target\debug\web-diital-backend.exe: C:\Users\aawan\Desktop\programming\web\ development\react\ js\ projects\web\ digital\backend\src\main.rs

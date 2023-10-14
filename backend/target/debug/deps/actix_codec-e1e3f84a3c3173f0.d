@@ -1,0 +1,10 @@
+C:\Users\aawan\Desktop\programming\web development\react js projects\web digital\backend\target\debug\deps\actix_codec-e1e3f84a3c3173f0.rmeta: C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src/lib.rs C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src\bcodec.rs C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src\framed.rs C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src\lines.rs
+
+C:\Users\aawan\Desktop\programming\web development\react js projects\web digital\backend\target\debug\deps\libactix_codec-e1e3f84a3c3173f0.rlib: C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src/lib.rs C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src\bcodec.rs C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src\framed.rs C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src\lines.rs
+
+C:\Users\aawan\Desktop\programming\web development\react js projects\web digital\backend\target\debug\deps\actix_codec-e1e3f84a3c3173f0.d: C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src/lib.rs C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src\bcodec.rs C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src\framed.rs C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src\lines.rs
+
+C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src/lib.rs:
+C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src\bcodec.rs:
+C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src\framed.rs:
+C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.1\src\lines.rs:

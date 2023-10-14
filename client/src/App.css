@@ -1,0 +1,64 @@
+a{
+  text-decoration: none; 
+  color: aliceblue;
+}
+header{
+  background-color: rgb(16, 16, 16);
+  color: aliceblue;
+  height: 18vh;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.webdigital {
+  margin-left: 5%; 
+  font-size: 2.7vw;
+}
+
+#buttonsheader{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: row;
+  align-items: center;
+  gap: 4vw;
+  margin-left: 12vw;
+  font-size: 2vw;
+}
+.register_page{
+background-color: rgb(29, 0, 63);
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+text-align: center;
+flex-direction: column;
+gap: 4vw;
+}
+.register_card{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  gap: 2vh;
+  background-color: rgb(6, 0, 59);
+  width: 25vw;
+  height: 70vh;
+}
+.loginorregisterh1{
+  color: aliceblue;
+  font-size: 2vw;
+}
+#username_box{
+  width: 20vw;
+  height: 3vw;
+}
+.email_box{
+width: 20vw;
+height: 3vw;
+}
+.password_box{
+  width: 20vw;
+  height: 3vw;
+}

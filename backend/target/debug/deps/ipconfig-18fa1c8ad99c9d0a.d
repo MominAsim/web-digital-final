@@ -1,0 +1,10 @@
+C:\Users\aawan\Desktop\programming\web development\react js projects\web digital\backend\target\debug\deps\ipconfig-18fa1c8ad99c9d0a.rmeta: C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\lib.rs C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\adapter.rs C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\bindings\mod.rs C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\bindings\win64.rs C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\computer.rs C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\error.rs
+
+C:\Users\aawan\Desktop\programming\web development\react js projects\web digital\backend\target\debug\deps\ipconfig-18fa1c8ad99c9d0a.d: C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\lib.rs C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\adapter.rs C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\bindings\mod.rs C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\bindings\win64.rs C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\computer.rs C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\error.rs
+
+C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\lib.rs:
+C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\adapter.rs:
+C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\bindings\mod.rs:
+C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\bindings\win64.rs:
+C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\computer.rs:
+C:\Users\aawan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ipconfig-0.2.2\src\error.rs:
